@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83ae8863.chunk.css",
+    "main.js": "/static/js/main.3f65803f.chunk.js",
+    "main.js.map": "/static/js/main.3f65803f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a1bfce0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a1bfce0.js.map",
+    "static/js/2.05bf0155.chunk.js": "/static/js/2.05bf0155.chunk.js",
+    "static/js/2.05bf0155.chunk.js.map": "/static/js/2.05bf0155.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.83ae8863.chunk.css.map": "/static/css/main.83ae8863.chunk.css.map",
+    "static/js/2.05bf0155.chunk.js.LICENSE.txt": "/static/js/2.05bf0155.chunk.js.LICENSE.txt",
+    "static/media/app-header.css": "/static/media/Spartan.25491347.ttf",
+    "static/media/main-goals-app.css": "/static/media/Ubuntu-Regular.a6767dc5.ttf",
+    "static/media/app-alert-not-compited-goals.css": "/static/media/WorkSans-Light.7f449bca.otf",
+    "static/media/add-main-goal-form.css": "/static/media/consolas.cd87e652.ttf",
+    "static/media/could.2aade696.png": "/static/media/could.2aade696.png",
+    "static/media/diagramma.5fcf64dc.png": "/static/media/diagramma.5fcf64dc.png",
+    "static/media/find.d5d855ea.png": "/static/media/find.d5d855ea.png",
+    "static/media/geoBlue.0c110d26.png": "/static/media/geoBlue.0c110d26.png",
+    "static/media/geoYellow.4a73316c.png": "/static/media/geoYellow.4a73316c.png",
+    "static/media/love.ee6cd68e.png": "/static/media/love.ee6cd68e.png",
+    "static/media/micro.9f5ee36e.png": "/static/media/micro.9f5ee36e.png",
+    "static/media/net.e875c416.png": "/static/media/net.e875c416.png",
+    "static/media/okay.6776e7db.png": "/static/media/okay.6776e7db.png",
+    "static/media/plans.043ffba8.png": "/static/media/plans.043ffba8.png",
+    "static/media/priorBut.767b5150.png": "/static/media/priorBut.767b5150.png",
+    "static/media/since.19b5ba5b.png": "/static/media/since.19b5ba5b.png",
+    "static/media/video.05f6c65b.png": "/static/media/video.05f6c65b.png",
+    "static/media/app-my-days.css": "/static/media/wallpaper.d98bd680.png",
+    "static/media/yellowStar.ad2af858.png": "/static/media/yellowStar.ad2af858.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1bfce0.js",
+    "static/js/2.05bf0155.chunk.js",
+    "static/css/main.83ae8863.chunk.css",
+    "static/js/main.3f65803f.chunk.js"
+  ]
+}
